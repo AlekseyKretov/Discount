@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Discount</string>
+    <string name="action_add">Добавить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_edit">Редактировать</string>
+    <string name="action_favorites">Добавить в избранное</string>
+    <string name="action_back_to_discountslist">Назад к списку скидок</string>
+    <string name="action_back_to_map">Назад на карту</string>
+</resources>
